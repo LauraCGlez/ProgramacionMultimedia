@@ -1,0 +1,9 @@
+<resources>
+    <string name="movil">name</string>
+    <string-array name="operaciones_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
