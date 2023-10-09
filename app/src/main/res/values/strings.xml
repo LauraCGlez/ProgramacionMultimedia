@@ -1,5 +1,10 @@
 <resources>
     <string name="movil">name</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado:</string>
+    <string name="segundo_numero">Segundo número</string>
+    <string name="primer_numero">Primer número</string>
+    <string name="no_se_puede_dividir_por_cero">No se puede dividir por cero</string>
     <string-array name="operaciones_array">
         <item>+</item>
         <item>-</item>
